@@ -1,0 +1,149 @@
+@font-face{
+  font-family: soroBold;
+  src: url(assests/Fonts/Sora/Sora-Bold.ttf);
+}
+@font-face{
+  font-family: soro;
+  src: url(assests/Fonts/Sora/Sora-Regular.ttf);
+}
+@font-face{
+  font-family: oddVal;
+  src: url(assests/Fonts/OddvalText-SemiBold.ttf);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body{
+  height: 100%;
+  width: 100%;
+  font-family: soro;
+  --angle: 20deg;
+  background-color: black;
+  
+  color: black;
+}
+/* Header */
+header{
+  font-family: oddVal;
+  background-color: #550090;
+  color: white;
+  margin: 50px 40px;
+  padding: 20px 20px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+/* Hero */
+.hero{
+  text-align: center;
+  margin: 50px 30px;
+}
+.inputs{
+  margin-top: 70px;
+}
+.inputs input{
+  height: 50px;
+  width: 90vw;
+  padding: 20px;
+  font-family: soro;
+  color: white;
+  outline: none;
+  border: 2px solid white;
+  border-radius: 5px 5px 0px 0px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.inputs button{
+  height: 50px;
+  width: 90vw;
+  border-left: 2px solid white;
+  border-top: none;
+  border-right: 2px solid white;
+  border-bottom: 2px solid white;
+  font-family: soro;
+  font-size: large;
+  border-radius: 0px 0px 5px 5px;
+  cursor: pointer;
+  transition: 0.1s linear 0s;
+}
+.inputs:hover input{
+  color: white;
+  border-left: 2px solid #550090;
+  border-top: 2px solid #550090;
+  border-right: 2px solid #550090;
+  border-bottom: none;
+}
+.inputs:hover button{
+  background-color: #550090;
+  color: white;
+  border-left: 2px solid #550090;
+  border-top: none;
+  border-right: 2px solid #550090;
+  border-bottom: 2px solid #550090;
+}
+/* Card */
+.cards{
+  text-align: center;
+  margin: 100px 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card{
+  text-align: left;
+  margin: 20px;
+  padding: 20px;
+  width: 350px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+  transition: 0.1s linear 0s;
+}
+.card img{
+  margin-bottom: 20px;
+  width: 100%;
+  border-radius: 5px;
+  transition: 0.1s linear 0s;
+}
+.card:hover img{
+  box-shadow: 1px 1px 50px rgba(0, 0, 0, 0.5);
+}
+.card:hover{
+  transform: translateY(-5px);
+}
+.card h1{
+  font-family: oddVal;
+  color: #550090;
+  margin-bottom: 20px;
+}
+.card p{
+  margin-bottom: 10px;
+}
+.card button{
+  margin-top: 10px;
+  margin-right: 10px;
+  font-family: soro;
+  background-color: #9000ff;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.card button:hover{
+  background-color: #550090;
+}
+/* Footer */
+footer{
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  background-color: #550090;
+  color: white;
+  padding: 50px;
+  font-family: oddVal;
+  font-size: large;
+}
