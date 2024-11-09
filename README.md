@@ -8,13 +8,14 @@ Welcome to **CourseCatch**! Discover high-quality Udemy courses offered for free
 - [Project Description](#project-description)
 - [Features](#features)
 
----
+
 
 ## Project Description
 
 **CourseCatch** simplifies the process of finding free Udemy courses that usually require payment. By using the **Udemy Paid Courses for Free API**, CourseCatch ensures you have access to a variety of learning opportunities across tech, business, personal development, and more — all at zero cost!
 
 Visit **CourseCatch** here: [CourseCatch Platform](https://course-catch.vercel.app/) 🚀
+
 
 
 ## Features
