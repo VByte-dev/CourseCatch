@@ -24,5 +24,3 @@ Visit **CourseCatch** here: [CourseCatch Platform](https://course-catch.vercel.a
 - 🔄 **Regular Updates**: Courses and coupons are updated frequently to ensure active and relevant offers.
 - 🔍 **Easy Search**: Find courses by category, topic, or level of expertise.[In Future]
 - ⭐ **Save and Track**: Option to save favorite courses for easy tracking. [In Future]
-
----
