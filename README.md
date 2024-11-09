@@ -7,11 +7,6 @@ Welcome to **CourseCatch**! Discover high-quality Udemy courses offered for free
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -31,10 +26,3 @@ Visit **CourseCatch** here: [CourseCatch Platform](https://course-catch.vercel.a
 - ⭐ **Save and Track**: Option to save favorite courses for easy tracking. [In Future]
 
 ---
-
-## Getting Started
-
-To get a local copy of this project up and running on your machine, follow these steps:
-
-### Prerequisites
-- Node.js and npm installed on your machine.
