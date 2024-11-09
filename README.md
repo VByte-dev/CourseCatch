@@ -8,7 +8,6 @@ Welcome to **CourseCatch**! Discover high-quality Udemy courses offered for free
 - [Project Description](#project-description)
 - [Features](#features)
 
----
 
 ## Project Description
 
@@ -16,7 +15,6 @@ Welcome to **CourseCatch**! Discover high-quality Udemy courses offered for free
 
 Visit **CourseCatch** here: [CourseCatch Platform](https://course-catch.vercel.app/) 🚀
 
----
 
 ## Features
 
